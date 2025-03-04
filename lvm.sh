@@ -1,4 +1,5 @@
 #!/bin/bash
+####### Script creado por ACM aka CiberDosis
 ####### Script de Configuracion de lvm segun el caso de uso: 
 green="\e[0;32m\033[1m"
 end="\033[0m\e[0m"
